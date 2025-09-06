@@ -1,0 +1,7 @@
+cd C:\Users\<YOU>\Documents\sullys_new_and_improved_bot
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/<SullivansAdvertisements>/sullys_new_and_improved_bot.git
+git push -u origin main
